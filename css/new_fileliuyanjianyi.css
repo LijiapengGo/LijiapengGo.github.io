@@ -1,0 +1,170 @@
+*
+		{
+			margin: 0;
+			padding: 0;
+		}
+		img{
+			display: block;
+			margin: 0 ;
+		}
+		#warp
+		{
+			width:1366px;
+			height:738px;
+
+		}
+		#header{
+			width: 1366px;
+			height: 118px;
+		}
+		.header-img  img{
+			float: left ;
+		}
+		.header-right{
+			width: 636px;
+			height: 118px;
+			background: darkblue;
+			float: left;
+		}
+		.bottom{
+			width: 1366px;
+	        height: 20px;
+			background: #2F8199;
+		}
+		.main{
+			border-bottom:2px solid black ;
+			width: 1366px;
+			height:500px;
+			background: red;
+		}
+		.main-left{
+			border-right: 2px solid black;
+			width: 250px;
+			height:500px ;
+			background:lightgray;
+			float: left;
+		}
+		.main-right{
+			width: 1114px;
+			height:500px ;
+			background: lightgray;
+			float: left;
+		}
+		.main-one{
+			line-height: 40px;
+			font-size: 20px;
+			text-align: center;
+			width:250px;
+			height:40px;
+			border-bottom: 2px solid black;
+		}
+		.main-two{
+			
+			line-height: 40px;
+			font-size: 20px;
+			text-align: center;
+			width:250px;
+			height:40px;
+			border-bottom: 2px solid black;
+		}
+	
+		.main-one:hover{
+			background: white;
+		}
+		.main-two:hover{
+			background: white;
+		}
+		.main-two a:link{
+			text-decoration: none;
+			color: #551A8B;
+		}
+		.main-two a:hover{
+			color: blue;
+		}
+		.main-right img{
+			float: left;
+		}
+		.main-right textarea{
+			margin-top: 20px;
+			float: left;
+			font-size: 20px;
+			border: 1px solid black;
+		}
+		.main-top{
+			margin-left: 100px;
+			width:1064px ;
+			height:300px;
+		
+			
+		}
+		.main-right  h3{
+			margin-top: 20px;
+			height: 250px;
+			float: left;
+		}
+		.main-top-first {
+			margin-left: 100px;
+			width: 350px;
+			height: 50px;
+			
+		}
+	    .main-top-first b{
+	    	margin: 0;
+	    	float: left;
+	    }
+	    .main-top-first input{
+	    	width: 250px;
+	    	height:25px;
+	    	margin-left: 8px;
+	    }
+	    	.main-top-second {
+	    	margin-left: 100px;
+			width: 350px;
+			height: 50px;
+			
+		}
+	    .main-top-second b{
+	    	margin: 0;
+	    	float: left;
+	    }
+	    .main-top-second input{
+	    	margin-left: 8px;
+	    	width:250px;
+	    	height:25px;
+	    }
+	    .main-top-third {
+	    	margin-left: 100px;
+			width: 350px;
+			height: 50px;
+			
+		}
+	     .main-top-third b{
+	    	margin: 0;
+	    	float: left;
+	    }
+	    .main-top-third input{
+	    	margin-left: 8px;
+	    	width:250px;
+	    	height:25px;
+	    }
+	     	.main-top-fourth{
+	    		margin-left:70px;
+			width: 50px;
+			height: 30px;
+			background: gray;
+		}
+			.main-top-fifth{
+	    	margin-left:200px;
+			width: 50px;
+			height: 30px;
+			background:gray;
+		}
+		.footer{
+			width: 1366px;
+			height: 100px;
+			background: darkblue;
+		}
+	    
+		
+	    
+		
